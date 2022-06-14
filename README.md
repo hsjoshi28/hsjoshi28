@@ -1,9 +1,5 @@
-- 👋 Hi, I’m a thing
-- 🙂 I’m interested in something
-- 😵‍💫 I’m currently learning everything
-- ✌️ I’m looking to collaborate on anything
-- 🤷‍♂️ I mind nothing
-- 📧 Contact the thing at hsjoshi28 [at] gmail [dot] com
+- Hello there,
+- 📧 Contact me at hsjoshi28 [at] gmail [dot] com
 
 - 📂 You can check the repos and refer my codes.
 <!---
